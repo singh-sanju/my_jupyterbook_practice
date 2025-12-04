@@ -23,7 +23,8 @@ The template and its content are not meant as a replacement of the documentation
 
 :::{myst}
 ```{warning} Enjoyment Warning!
-Once you start building JB2 books, it is likely you will get hooked!
+I tried my first edit in this workshop — editing this line to learn MyST!
 For instance, try changing this cell in the browser and see its output!
+!
 ```
 :::
